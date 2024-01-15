@@ -6,27 +6,30 @@
 
 <!----------------- ABOUT ME ----------------->
 <h2> About Me </h2>
-<h3 align="center">Multiplatform App Developer | Audiovisual | Design | Enthusiast  </h3>
+<h3 align="center">Multiplatform App Developer | Audiovisual | Curious Learner  </h3>
+
+   <!----------------- COOL GIF ----------------->  
+<img align="right" src="https://github.com/AgnesG19/AgnesG19/assets/115895830/6300d3c5-982f-454a-a906-cf6407b2adfd" width="400" height="300" />
 
 
-- 🔭 I’m currently searching for internship in Barcelona. 
-- 🌱 I’m currently learning FrontEnd.
+<p align="left">My name is Agnès, and I am passionate about creativity and technology. For the past few years, I have been interested in the world of technology and computing. My experience blends audiovisuals, design, and a strong desire to grow in the field of multiplatform application development.
 
-   <!----------------- COOL GIF ----------------->
-   ![]("https://i.gifer.com/6vIk.gif)
-   
-   <div style="padding-top:74.000%;position:relative;">
-     <img src="https://gifer.com/embed/6vIk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img>
-   </div>
-   
-   <img src="https://i.gifer.com/6vIk.gif" align="center" style="width: 100%; height:100% " />
+- 📷 I have a degree in <b>Audiovisuals</b>.
+- 📝 I have studied the <b>Multiplatform Application Development</b> program at the Open University of Barcelona (UOC), and I am set to graduate this year.
+- 🔭 I’m currently searching for <b>internship in Barcelona</b>. 
+- 🌱 I’m currently learning FrontEnd by myself.
+</p>
 
-
-<a href="https://www.linkedin.com/in/agnes-garcia-mateo/"><img src="https://img.shields.io/badge/-LINKEDIN%20Agnes%20Garcia%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<i>Wanna know more about me:</i>
+<!----------------- SOCIAL ----------------->  
+<div align="center">
+ <a href="https://www.linkedin.com/in/agnes-garcia-mateo/">
+ <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</div>
   
 
-<!----------------- My Skills ----------------->
-<h2> 💻 My Skills</h2>
+<!----------------- MY SKILLS ----------------->
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills</h2>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> <b>Programming languages</b>
 
@@ -43,9 +46,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-95aafc?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-f5bd3b?style=for-the-badge&logo=Firebase&logoColor=white)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-
 <b>Software & Tools</b>
 
 ![Git](https://img.shields.io/badge/-Git-db3a09?style=for-the-badge&logo=Git&logoColor=white)
@@ -54,6 +54,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-66e8ff?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Anrdoid%20Studio%20-50f266?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+![Virtual Box](https://img.shields.io/badge/-Virtual%20Box-ffffff?style=for-the-badge&logo=virtual-box&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-4287f5?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Premiere](https://img.shields.io/badge/-Premiere-a455e0?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
@@ -70,4 +74,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgnesG19&layout=compact&langs_count=8&theme=dark&bg_color=0A0A0A"/>
 </a>
 </p>
+
+ <p align="center"><i>Keep working, don't stop trying, you will achieve it</i></p>
 
