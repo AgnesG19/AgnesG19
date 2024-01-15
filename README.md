@@ -12,16 +12,14 @@
 - 🔭 I’m currently searching for internship in Barcelona. 
 - 🌱 I’m currently learning FrontEnd.
 
-  
-![]("https://i.gifer.com/6vIk.gif)
-
-<div style="padding-top:74.000%;position:relative;">
-  <img src="https://gifer.com/embed/6vIk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img>
-</div>
-
-![](https://github.com/AgnesG19/keys.gif)
-https://gifer.com/es/6vIk
-<img src="https://i.gifer.com/6vIk.gif" align="center" style="width: 100%; height:100% " />
+   <!----------------- COOL GIF ----------------->
+   ![]("https://i.gifer.com/6vIk.gif)
+   
+   <div style="padding-top:74.000%;position:relative;">
+     <img src="https://gifer.com/embed/6vIk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img>
+   </div>
+   
+   <img src="https://i.gifer.com/6vIk.gif" align="center" style="width: 100%; height:100% " />
 
 
 <a href="https://www.linkedin.com/in/agnes-garcia-mateo/"><img src="https://img.shields.io/badge/-LINKEDIN%20Agnes%20Garcia%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
