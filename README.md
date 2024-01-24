@@ -1,8 +1,8 @@
-
+<br>
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+there+I'm+Nes+%F0%9F%91%8B;Multiplatform+App+Developer;" alt="Headline" />
   </div>
-
+</br>
 
 <!----------------- ABOUT ME ----------------->
 <h2> About Me </h2>
