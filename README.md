@@ -2,11 +2,11 @@
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+there+I'm+Nes+%F0%9F%91%8B;Multiplatform+App+Developer;" alt="Headline" />
   </div>
-</br>
 
 <!----------------- ABOUT ME ----------------->
 <h2> About Me </h2>
 <h3 align="center">Multiplatform App Developer | Audiovisual | Curious Learner  </h3>
+<br>
 
    <!----------------- COOL GIF ----------------->  
 <img align="right" src="https://github.com/AgnesG19/AgnesG19/assets/115895830/6300d3c5-982f-454a-a906-cf6407b2adfd" width="400" height="300" />
@@ -27,7 +27,7 @@
  <a href="https://www.linkedin.com/in/agnes-garcia-mateo/">
  <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </div>
-</br>
+
   
 
 <!----------------- MY SKILLS ----------------->
