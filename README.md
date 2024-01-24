@@ -9,7 +9,7 @@
 <br>
 
    <!----------------- COOL GIF ----------------->  
-<img align="right" src="https://github.com/AgnesG19/AgnesG19/assets/115895830/6300d3c5-982f-454a-a906-cf6407b2adfd" width="400" height="300" />
+<img align="right" src="https://github.com/AgnesG19/AgnesG19/assets/115895830/6300d3c5-982f-454a-a906-cf6407b2adfd" width="390" height="290" />
 
 
 <p align="left">My name is Agnès, and I am passionate about creativity and technology. For the past few years, I have been interested in the world of technology and computing. My experience blends audiovisuals, design, and a strong desire to grow in the field of multiplatform application development.
