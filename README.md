@@ -16,7 +16,7 @@
 
 - 📷 I have a degree in <b>Audiovisuals</b>.
 - 📝 I have studied the <b>Multiplatform Application Development</b> program at the Open University of Barcelona (UOC), and I am set to graduate this year.
-- 🔭 I’m currently searching for <b>internship in Barcelona</b>. 
+- 👩🏼‍💻 I'm currently doing my internship in <b>SETTING Consultoria in Barcelona</b>. 
 - 🌱 I’m currently learning FrontEnd by myself.
 </p>
 
